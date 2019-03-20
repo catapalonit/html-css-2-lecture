@@ -66,9 +66,9 @@ input:valid + button {
   display: block;
 }
 
-input:invalid + button {
+/* input:invalid + button {
   visibility: hidden;
-}
+} */
 
 article {
   border: 1px solid #ccc;
